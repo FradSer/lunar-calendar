@@ -4,7 +4,7 @@
 
 ## 安装
 
-### Node.js服务器端(使用npm安装)
+### Node.js服务器端
 ```bash
 npm install lunar-calendar
 ```
